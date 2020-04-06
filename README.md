@@ -11,7 +11,11 @@ Este curso está dividido en tres partes:
 - Escribiendo nuestro primer Entorno
 - Descubriendo Gym
 
-![](./C1 - Intro a RL/resources/mdp.png =100)
+
+You could just use some HTML in your Markdown:
+
+<img src="./C1 - Intro a RL/resources/mdp.png"  width="200"/>
+
 
 ### [2] Ecuación de Bellman y Q-Learning
 - Las acciones en los Procesos de decisión de Markov
