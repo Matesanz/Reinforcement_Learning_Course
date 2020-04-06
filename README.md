@@ -14,7 +14,7 @@ Este curso está dividido en tres partes:
 
 You could just use some HTML in your Markdown:
 
-<img src="./C1 - Intro a RL/resources/mdp.png"  width="200"/>
+<img src="./C1 - Intro a RL/resources/mdp.png"  width="600"/>
 
 
 ### [2] Ecuación de Bellman y Q-Learning
