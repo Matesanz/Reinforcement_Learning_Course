@@ -11,6 +11,8 @@ Este curso está dividido en tres partes:
 - Escribiendo nuestro primer Entorno
 - Descubriendo Gym
 
+![](./C1 - Intro a RL/resources/mdp.png =100)
+
 ### [2] Ecuación de Bellman y Q-Learning
 - Las acciones en los Procesos de decisión de Markov
 - Calculando el Valor de los Estados
