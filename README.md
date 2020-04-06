@@ -4,21 +4,21 @@ En este curso presento tres clases con las que aprender todo lo básico relacion
 
 Este curso está dividido en tres partes:
 
-**[1] Introducción a Reinforcement Learning**:
+### [1] Introducción a Reinforcement Learning
 - Cadenas de Markov
 - Procesos de Recompensa de Markov
 - Procesos de Decision de Markov
 - Escribiendo nuestro primer Entorno
 - Descubriendo Gym
 
-**[2] Ecuación de Bellman y Q-Learning**
+### [2] Ecuación de Bellman y Q-Learning
 - Las acciones en los Procesos de decisión de Markov
 - Calculando el Valor de los Estados
 - Q: El valor de las acciones
 - Programación Dinámica: Iteración de Valores
 - Diferencias Temporales: Q-learning
 
-**[3] Deep Reinforcement Learning**
+### [3] Deep Reinforcement Learning
 - Breve introducción al Deep Learning
 - Redes neuronales y Reinforcement Learning
 - Método Cross-Entropy
