@@ -11,11 +11,7 @@ Este curso está dividido en tres partes:
 - Escribiendo nuestro primer Entorno
 - Descubriendo Gym
 
-
-You could just use some HTML in your Markdown:
-
 <img src="./C1 - Intro a RL/resources/mdp.png"  width="600"/>
-
 
 ### [2] Ecuación de Bellman y Q-Learning
 - Las acciones en los Procesos de decisión de Markov
@@ -24,8 +20,12 @@ You could just use some HTML in your Markdown:
 - Programación Dinámica: Iteración de Valores
 - Diferencias Temporales: Q-learning
 
+<img src="./C2 - Ecuación Bellman y Q-learning/resources/q_learning_eq_II.png"  width="600"/>
+
 ### [3] Deep Reinforcement Learning
 - Breve introducción al Deep Learning
 - Redes neuronales y Reinforcement Learning
 - Método Cross-Entropy
 - Deep Q-learning
+
+<img src="./C3 - Deep Reinforcement Learning/dqn_algorithm.png"  width="600"/>
