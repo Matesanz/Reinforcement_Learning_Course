@@ -28,4 +28,4 @@ Este curso está dividido en tres partes:
 - Método Cross-Entropy
 - Deep Q-learning
 
-<img src="./C3 - Deep Reinforcement Learning/dqn_algorithm.png"  width="600"/>
+<img src="./C3 - Deep Reinforcement Learning/resources/dqn_algorithm.png"  width="600"/>
