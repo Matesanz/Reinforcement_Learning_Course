@@ -32,30 +32,28 @@ Para ejecutar los notebooks la mejor forma es [usar docker](#-quick-start-usando
   
 ![Reinforcement Learning Intro](https://user-images.githubusercontent.com/44867923/139915800-8224bede-c52b-47d1-bb22-2e9624687831.jpg)
 
-## 1️⃣ Introducción a Reinforcement Learning 🏗️ (En construcción...)
-- Cadenas de Markov
-- Procesos de Recompensa de Markov
-- Procesos de Decision de Markov
+## 1️⃣ Ecuación de Bellman: El valor de los estados
+- V-table: asignando un valor a cada estado
+- Ecuación de Bellman: calculando V para cada estado
+- Cálculo de la Política usando la V-table
 
 
-![Markov Decision Process](https://user-images.githubusercontent.com/44867923/139942084-eaddeb99-2e9b-4f7b-9421-d6de4c83ff2f.jpg)
+![Bellman_equation State_Value](https://user-images.githubusercontent.com/44867923/140994794-51d739af-eb70-4e6a-9036-b925f23ab7fd.jpg)
 
-## 2️⃣ Ecuación de Bellman y Q-Learning 🏗️ (En construcción...)
+## 2️⃣ Ecuación de Bellman: El valor de las acciones
 - Las acciones en los Procesos de decisión de Markov
-- Calculando el Valor de los Estados
 - Q: El valor de las acciones
 - Programación Dinámica: Iteración de Valores
+
+![Q-value](https://user-images.githubusercontent.com/44867923/141012134-09ff0d88-4ce9-43af-8b04-d535cf24d897.jpg)
+
+## 3️⃣ Q Learning
 - Diferencias Temporales: Q-learning
+- Alpha: aprender más de lo nuevo o de lo viejo
+- Gamma: cuanto más lejos en el futuro menos confianza
+- La política Óptima
 
-![Q-learning](https://user-images.githubusercontent.com/44867923/139942851-e38359ef-9fc4-4956-b591-57b4db658d77.jpg)
-
-## 3️⃣ Deep Reinforcement Learning 🏗️ (En construcción...)
-- Breve introducción al Deep Learning
-- Redes neuronales y Reinforcement Learning
-- Método Cross-Entropy
-- Deep Q-learning
-
-![Deep Learning en Reinforcement Learning](https://user-images.githubusercontent.com/44867923/139941983-7d8b1894-5dd9-4568-b04c-3a316af8ed85.jpg)
+![Q-learning](https://user-images.githubusercontent.com/44867923/141012234-257d26af-bf05-4dad-b402-96b54c735f41.jpg)
 
 
 # ⚡ Quick-Start: usando remote containers
