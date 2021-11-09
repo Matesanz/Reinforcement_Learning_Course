@@ -11,9 +11,9 @@ En este curso se incluye **todo lo básico relacionado con el Aprendizaje por Re
   - [🔖 Tabla de Contenidos](#-tabla-de-contenidos)
 - [📜 Temas](#-temas)
   - [0️⃣ Introducción a Reinforcement Learning](#0️⃣-introducción-a-reinforcement-learning)
-  - [1️⃣ Introducción a Reinforcement Learning 🏗️ (En construcción...)](#1️⃣-introducción-a-reinforcement-learning-️-en-construcción)
-  - [2️⃣ Ecuación de Bellman y Q-Learning 🏗️ (En construcción...)](#2️⃣-ecuación-de-bellman-y-q-learning-️-en-construcción)
-  - [3️⃣ Deep Reinforcement Learning 🏗️ (En construcción...)](#3️⃣-deep-reinforcement-learning-️-en-construcción)
+  - [1️⃣ Ecuación de Bellman: El valor de los estados](#1️⃣-ecuación-de-bellman-el-valor-de-los-estados)
+  - [2️⃣ Ecuación de Bellman: El valor de las acciones](#2️⃣-ecuación-de-bellman-el-valor-de-las-acciones)
+  - [3️⃣ Q Learning](#3️⃣-q-learning)
 - [⚡ Quick-Start: usando remote containers](#-quick-start-usando-remote-containers)
 
 Este curso está dividido en varias partes:
