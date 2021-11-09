@@ -2,3 +2,4 @@ gym[Box_2D]
 matplotlib
 box2d-py
 pyglet
+seaborn
