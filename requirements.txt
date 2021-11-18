@@ -3,3 +3,6 @@ matplotlib
 box2d-py
 pyglet
 seaborn
+tensorflow
+pydot
+graphviz
